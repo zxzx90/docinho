@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // --- CÓDIGO DO SLIDESHOW ---
     const photos = [
-        'img/.jpg', // Caminho para a foto inicial do card (na raiz da pasta sweet)
+        'img/kk.jpeg', // Caminho para a foto inicial do card (na raiz da pasta sweet)
 
         // Adicione aqui todos os caminhos para as suas fotos do slideshow.
         // Certifique-se de que os nomes e a pasta (ex: 'images/') estão corretos.
